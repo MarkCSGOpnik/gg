@@ -22,5 +22,17 @@ double sizefoo(int* sizearr)
 }
 double arrfoo(one)
 {
+	double arrfoo(one)
+	{
+		double arrfoo(one)
+		{
+			double arrfoo(one)
+			{
+				double arrfoo(one)
+				{
 
+				}
+			}
+		}
+	}
 }
